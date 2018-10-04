@@ -4,6 +4,7 @@
 
 build
 build/
+sp68fl.dat
 
 # Files for the ART/Dalvik VM
 *.dex
